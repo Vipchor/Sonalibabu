@@ -90,7 +90,7 @@ hieght="38.30" /></a>
 
 <h4>Click the button below to deploy on Okteto!</h4>
 
-<a href="https://cloud.okteto.com/deploy?repository=https://github.com/BikashHalderNew/Bgtplayer">
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/Vipchor/Sonalibabu">
   <img
 src="https://img.shields.io/badge/Deploy%20On%20Okteto-lightpink?style=for-the-badge&logo=Okteto" width="220""/>
 </a>
@@ -100,6 +100,18 @@ src="https://img.shields.io/badge/Deploy%20On%20Okteto-lightpink?style=for-the-b
 
 <h4>Click the button below to deploy on Mogenius!</h4>
 
+<a href="https://mogenius.com">
+  <img
+src="https://img.shields.io/badge/Deploy%20On%20Mogenius-grey?style=for-the-badge&logo=Mogenius" width="220""/>
+</a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 🚈 :
+Check Out [Necessary Variables Here](https://github.com/Vipchor/Sonalibabu/blob/bikash/Internal)
+fill these vars
+
+<a href="https://railway.app/new/template?template=https://github.com/Vipchor/Sonalibabu-Deploy&envs=STRING_SESSION,BOT_TOKEN,OWNER_ID,MONGO_DB_URI,API_ID,API_HASH"><img src="https://railway.app/button.svg" alt="Deploy on Railway" /></a>
 <a href="https://mogenius.com">
   <img
 src="https://img.shields.io/badge/Deploy%20On%20Mogenius-grey?style=for-the-badge&logo=Mogenius" width="220""/>
